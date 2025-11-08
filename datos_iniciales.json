@@ -1,0 +1,32 @@
+{
+    "libros": [
+        {
+            "titulo": "Cien a\u00f1os de soledad",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "isbn": "978-3-16-148410-0",
+            "cantidad": 5
+        },
+        {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "isbn": "978-0-345-33968-3",
+            "cantidad": 3
+        },
+        {
+            "titulo": "Un mundo feliz",
+            "autor": "Aldous Huxley",
+            "isbn": "978-0-06-112008-4",
+            "cantidad": 2
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Ana L\u00f3pez",
+            "id_usuario": "U001"
+        },
+        {
+            "nombre": "Juan P\u00e9rez",
+            "id_usuario": "U002"
+        }
+    ]
+}

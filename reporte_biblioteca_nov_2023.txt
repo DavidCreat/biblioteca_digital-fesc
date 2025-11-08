@@ -1,0 +1,18 @@
+Reporte Mensual de la Biblioteca - 11/2023
+========================================
+
+Detalle de Préstamos del Mes:
+- Libro: '1984' (ISBN: 978-0-345-33968-3)
+  Usuario: 'Ana López' (ID: U001)
+  Fecha Préstamo: 2023-11-01
+  Estado: Activo
+  Multa calculada: 362.00 euros
+-----
+
+========================================
+Estadísticas Generales:
+- Total Libros: 3
+- Libros Disponibles: 9
+- Total Usuarios: 2
+- Prestamos Activos: 1
+- Total Multas Pendientes: 362.0
